@@ -6,7 +6,7 @@
  * Time: 20:19
  */
 
-namespace monitor\core;
+namespace lushaohui\core;
 
 
 class Controller

@@ -6,7 +6,7 @@
  * Time: 13:44
  */
 
-namespace monitor\core;
+namespace lushaohui\core;
 
 /**
  * 框架启动类

@@ -1,0 +1,23 @@
+{
+    "name": "lushaohui/core",
+    "authors": [
+        {
+            "name": "lushaohui",
+            "email": "361157914@qq.com"
+        }
+    ],
+    "require": {
+	
+	},
+	"autoload":{
+	"files":[
+		"functions.php"
+	],
+	"psr-4":{
+			"lushaohui\\core\\":""
+	
+	}
+	
+	
+	}
+}
